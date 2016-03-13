@@ -8,11 +8,7 @@ Depending on your familiarity with the PNG format you may know that it is possib
 
 ![file is a great way to discover file formats](https://github.com/mercluke/sunshine2016/blob/master/moon/moon_p2.png)
 In this case, we have ourselves a zip archive.
-3. On attempting to extract this zip we notice it is protected by a password.  Luckilly, archives created with earlier versions of zip are trivial to bruteforce, there are many tools available for this (including john the ripper)
+3. On attempting to extract this zip we notice it is protected by a password.  Luckilly, archives created with earlier versions of zip are trivial to bruteforce, there are many tools available for this (including john the ripper). I just happened to have a shell script lying around on my droplet so i used that.
 ![crack dat zip](https://github.com/mercluke/sunshine2016/blob/master/moon/moon_p3.png)
-
-I just happened to have a shell script lying around on my droplet so i used that.
-
 4. ???
-
 5. Profit
