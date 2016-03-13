@@ -12,5 +12,7 @@ In this case, we have ourselves a zip archive.
 ![crack dat zip](https://github.com/mercluke/sunshine2016/blob/master/moon/moon_p3.png)
 
 I just happened to have a shell script lying around on my droplet so i used that.
+
 4. ???
+
 5. Profit
